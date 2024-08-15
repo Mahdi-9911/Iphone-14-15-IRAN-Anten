@@ -12,7 +12,7 @@
 		<key>IsNewProfile</key>
 		<true/>
 		<key>PayloadType</key>
-		<string></string>
+		<string>c7db7dd3-515f-45de-91c8-afb276333d55</string>
 		<key>PlatformFilters</key>
 		<array>
 			<string>ios</string>
